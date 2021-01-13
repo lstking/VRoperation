@@ -1,0 +1,9 @@
+D:\code\vrserver\vrclient\bin\Debug\vrclient.exe
+D:\code\vrserver\vrclient\bin\Debug\vrclient.pdb
+D:\code\vrserver\vrclient\obj\Debug\vrclient.Form1.resources
+D:\code\vrserver\vrclient\obj\Debug\vrclient.Properties.Resources.resources
+D:\code\vrserver\vrclient\obj\Debug\vrclient.csproj.GenerateResource.cache
+D:\code\vrserver\vrclient\obj\Debug\vrclient.csproj.CoreCompileInputs.cache
+D:\code\vrserver\vrclient\obj\Debug\vrclient.exe
+D:\code\vrserver\vrclient\obj\Debug\vrclient.pdb
+D:\code\vrserver\vrclient\obj\Debug\vrclient.csprojAssemblyReference.cache
