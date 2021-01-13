@@ -1,0 +1,5 @@
+D:\code\vrserver\vrserver\vrserver\bin\Release\vrserver.exe
+D:\code\vrserver\vrserver\vrserver\bin\Release\vrserver.pdb
+D:\code\vrserver\vrserver\vrserver\obj\Release\vrserver.csproj.CoreCompileInputs.cache
+D:\code\vrserver\vrserver\vrserver\obj\Release\vrserver.exe
+D:\code\vrserver\vrserver\vrserver\obj\Release\vrserver.pdb
