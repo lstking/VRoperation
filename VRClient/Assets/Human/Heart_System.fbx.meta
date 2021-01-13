@@ -1,0 +1,244 @@
+fileFormatVersion: 2
+guid: 5cd6a98b742d9934b9222b16ca2fea80
+timeCreated: 1467006957
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BAKED_antcard
+    100002: BAKED_antinter
+    100004: BAKED_aorta
+    100006: BAKED_circart
+    100008: BAKED_csinus
+    100010: BAKED_grtcard
+    100012: BAKED_invena
+    100014: BAKED_latrium
+    100016: BAKED_lauric
+    100018: BAKED_leftcor
+    100020: BAKED_lmargart
+    100022: BAKED_lmarvein
+    100024: BAKED_lpostven
+    100026: BAKED_midcard
+    100028: BAKED_posinter
+    100030: BAKED_ptrunk
+    100032: BAKED_pveins
+    100034: BAKED_ratrium
+    100036: BAKED_rightcor
+    100038: BAKED_rightmar
+    100040: BAKED_smalcard
+    100042: BAKED_svena
+    100044: BAKED_vents
+    100046: //RootNode
+    400000: BAKED_antcard
+    400002: BAKED_antinter
+    400004: BAKED_aorta
+    400006: BAKED_circart
+    400008: BAKED_csinus
+    400010: BAKED_grtcard
+    400012: BAKED_invena
+    400014: BAKED_latrium
+    400016: BAKED_lauric
+    400018: BAKED_leftcor
+    400020: BAKED_lmargart
+    400022: BAKED_lmarvein
+    400024: BAKED_lpostven
+    400026: BAKED_midcard
+    400028: BAKED_posinter
+    400030: BAKED_ptrunk
+    400032: BAKED_pveins
+    400034: BAKED_ratrium
+    400036: BAKED_rightcor
+    400038: BAKED_rightmar
+    400040: BAKED_smalcard
+    400042: BAKED_svena
+    400044: BAKED_vents
+    400046: //RootNode
+    4300000: BAKED_ptrunk
+    4300002: BAKED_aorta
+    4300004: BAKED_antinter
+    4300006: BAKED_csinus
+    4300008: BAKED_grtcard
+    4300010: BAKED_antcard
+    4300012: BAKED_rightmar
+    4300014: BAKED_smalcard
+    4300016: BAKED_midcard
+    4300018: BAKED_lpostven
+    4300020: BAKED_circart
+    4300022: BAKED_posinter
+    4300024: BAKED_leftcor
+    4300026: BAKED_rightcor
+    4300028: BAKED_lmarvein
+    4300030: BAKED_lmargart
+    4300032: BAKED_svena
+    4300034: BAKED_invena
+    4300036: BAKED_ratrium
+    4300038: BAKED_pveins
+    4300040: BAKED_lauric
+    4300042: BAKED_latrium
+    4300044: BAKED_vents
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: BAKED_antcard
+    13700002: BAKED_antinter
+    13700004: BAKED_aorta
+    13700006: BAKED_circart
+    13700008: BAKED_csinus
+    13700010: BAKED_grtcard
+    13700012: BAKED_invena
+    13700014: BAKED_latrium
+    13700016: BAKED_lauric
+    13700018: BAKED_leftcor
+    13700020: BAKED_lmargart
+    13700022: BAKED_lmarvein
+    13700024: BAKED_lpostven
+    13700026: BAKED_midcard
+    13700028: BAKED_posinter
+    13700030: BAKED_ptrunk
+    13700032: BAKED_pveins
+    13700034: BAKED_ratrium
+    13700036: BAKED_rightcor
+    13700038: BAKED_rightmar
+    13700040: BAKED_smalcard
+    13700042: BAKED_svena
+    13700044: BAKED_vents
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 1
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BAKED_antcard
+        weight: 1
+      - path: BAKED_antinter
+        weight: 1
+      - path: BAKED_aorta
+        weight: 1
+      - path: BAKED_circart
+        weight: 1
+      - path: BAKED_csinus
+        weight: 1
+      - path: BAKED_grtcard
+        weight: 1
+      - path: BAKED_invena
+        weight: 1
+      - path: BAKED_latrium
+        weight: 1
+      - path: BAKED_lauric
+        weight: 1
+      - path: BAKED_leftcor
+        weight: 1
+      - path: BAKED_lmargart
+        weight: 1
+      - path: BAKED_lmarvein
+        weight: 1
+      - path: BAKED_lpostven
+        weight: 1
+      - path: BAKED_midcard
+        weight: 1
+      - path: BAKED_posinter
+        weight: 1
+      - path: BAKED_ptrunk
+        weight: 1
+      - path: BAKED_pveins
+        weight: 1
+      - path: BAKED_ratrium
+        weight: 1
+      - path: BAKED_rightcor
+        weight: 1
+      - path: BAKED_rightmar
+        weight: 1
+      - path: BAKED_smalcard
+        weight: 1
+      - path: BAKED_svena
+        weight: 1
+      - path: BAKED_vents
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
